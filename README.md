@@ -3,7 +3,32 @@
 
 
 #cocos2d  Xcode 安装
-在官网下载 http://www.cocos.com/download/# Mac版本的包
+在官网下载 https://github.com/cocos2d/cocos2d-objc Mac版本的包并解压文件
+
+cd 到该目录下
+执行脚本 ./install.sh
+
+Cocos2D Template Installer (Cocos2D-v3.0.0)
+
+
+>>> Installing project templates
+...copying cocos2d files ✔
+...copying cocos2d-ui files ✔
+...downloading Chipmunk files, please wait... ✔
+...copying Chipmunk files ✔
+...copying ObjectAL files ✔
+...copying CCBReader files ✔
+...copying Xcode template files ✔
+
+>>> Installing file templates
+...copying CCNode file templates ✔
+
+                                     
+
+Templates installed successfully.
+Have fun!
+
+出现上面这个就说明你安装成功了，然后就可以开始你的项目了，Xcode → New → New Project → cocos2d v3.x，赶快试试吧！
 
 
 
